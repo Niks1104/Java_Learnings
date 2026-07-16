@@ -1,4 +1,4 @@
-package com.java.multithread;
+package com.java.multithread.basics;
 
 public class MultithreadingTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.java.multithread;
+package com.java.multithread.basics;
 
 public class ThreadMethods3 extends Thread{
 
