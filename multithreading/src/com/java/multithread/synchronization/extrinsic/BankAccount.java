@@ -1,4 +1,4 @@
-package com.java.multithread.synchronization;
+package com.java.multithread.synchronization.extrinsic;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;

@@ -1,4 +1,4 @@
-package com.java.multithread.synchronization;
+package com.java.multithread.synchronization.intrinsic;
 
 public class Test {
 

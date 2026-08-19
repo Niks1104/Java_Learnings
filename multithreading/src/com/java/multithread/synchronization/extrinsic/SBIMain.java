@@ -1,4 +1,4 @@
-package com.java.multithread.synchronization;
+package com.java.multithread.synchronization.extrinsic;
 
 public class SBIMain {
 
